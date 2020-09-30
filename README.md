@@ -25,5 +25,5 @@ Los análisis efectuados por *pandas profiling* estarán disponibles en el sigui
 intro_ds_p1_consumo_agua
 └───reportes
         profiling_final.html
-        profiling_final.html
+        profiling_inicial.html
 ```
