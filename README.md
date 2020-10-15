@@ -31,5 +31,5 @@ Estos tienen el siguiente significado:
 * **agua_profiling_reporte_cliente.ipynb:** notebook para generar PDF de reporte
 * **agua_profiling_reporte_cliente.pdf:** reporte en versión PDF para el cliente
 * **agua_profiling_expo.ipynb:** notebook de todos los análisis efectuados
-* **exposicion_equipo_5.pdf:** slideck de exposición de trabajo
+* **exposicion_equipo_5.md:** slideck de exposición de trabajo
 * **profiling_cliente.html:** profiling generando por `pandas_profiling` de las variables después de la limpieza
