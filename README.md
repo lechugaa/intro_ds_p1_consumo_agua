@@ -27,7 +27,7 @@ eda
 
 Estos tienen el siguiente significado:
 
-* **requirements.txt:**requerimientos de ambiente virtual de python 3.7.4 para correr el código
+* **requirements.txt:** requerimientos de ambiente virtual de python 3.7.4 para correr el código
 * **agua_profiling_reporte_cliente.ipynb:** notebook para generar PDF de reporte
 * **agua_profiling_reporte_cliente.pdf:** reporte en versión PDF para el cliente
 * **agua_profiling_expo.ipynb:** notebook de todos los análisis efectuados
