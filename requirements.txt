@@ -46,12 +46,14 @@ numpy==1.19.2
 packaging==20.4
 pandas==1.1.2
 pandas-profiling==2.9.0
+pandoc==1.0.2
 pandocfilters==1.4.2
 parso==0.7.1
 pexpect==4.8.0
 phik==0.10.0
 pickleshare==0.7.5
 Pillow==7.2.0
+ply==3.11
 prometheus-client==0.8.0
 prompt-toolkit==3.0.7
 ptyprocess==0.6.0
